@@ -29,4 +29,4 @@ const getHeroeByIdAsyc2 = async ( id ) => {
     }
 }
 
-getHeroeByIdAsyc2(5);
+getHeroeByIdAsyc2(2);
